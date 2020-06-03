@@ -1,4 +1,4 @@
-# Ann_Rumsey_NSS_capstone
+# annrumsey_capstone
 Nashville Software School Data Analytics cohort DA2E capstone project
 
 
