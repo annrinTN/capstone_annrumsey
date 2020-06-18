@@ -3,7 +3,8 @@ Nashville Software School Data Analytics cohort DA2E capstone project
 
 
 I am interested in exploring food security and the impact of hunger by identifying populations impacted by threats to the food supply. 
-The established US government sources for SNAP and WIC data are a key component of this analysis. 
+The established US government sources from the USDA for SNAP and WIC data are a key component of this analysis. 
+SNAP = Supplemental Nutrition Assistance Program 
 
 Who is food insecure?
 Is our current US SNAP program impacted by threats to the food supply / food safety?
