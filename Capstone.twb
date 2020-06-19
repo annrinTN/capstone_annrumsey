@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
 <!-- build 20202.20.0525.1210                               -->
-<workbook original-version='18.1' source-build='2020.2.1 (20202.20.0525.1210)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<workbook original-version='18.1' source-build='2020.2.1 (20202.20.0525.1210)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <AutoCreateAndUpdateDSDPhoneLayouts />
     <FileGeoDatabaseDirectorySupport />
@@ -18,6 +18,7 @@
     <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
+  <repository-location id='Capstone-Tableauportion' path='/workbooks' revision='1.0' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -27,7 +28,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='gdb' name='ogrdirect.1khff4x0wpz6s81b0agbz0cx12xr'>
-            <connection class='ogrdirect' directory='C:/Users/annru/Documents/capstone_annrumsey/data/Public_ExcessFood_USTer_2020_R9.gdb' filename='gdb' ogr-grid-shift-folder='C:\Program Files\Tableau\Tableau 2020.2\local\proj4' password='' server='' tablename='' />
+            <connection class='ogrdirect' directory='C:/Users/annru/Documents/capstone_annrumsey/data/Public_ExcessFood_USTer_2020_R9.gdb' filename='gdb' ogr-grid-shift-folder='C:\Program Files\Tableau\Tableau 2020.2\local\proj4' password='' server='' tablename='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='ogrdirect.1khff4x0wpz6s81b0agbz0cx12xr' name='AnaerobicDigestion_US_2019_R9' table='[AnaerobicDigestion_US_2019_R9]' type='table'>
@@ -9720,7 +9721,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Food_bank_lat_long' name='textscan.1uptmyx0r5yv5415mmqzf1i6lhjt'>
-            <connection class='textscan' directory='C:/Users/annru/Documents/capstone_annrumsey/data' filename='Food_bank_lat_long.csv' password='' server='' />
+            <connection class='textscan' directory='C:/Users/annru/Documents/capstone_annrumsey/data' filename='Food_bank_lat_long.csv' password='' server='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1uptmyx0r5yv5415mmqzf1i6lhjt' name='Food_bank_lat_long.csv' table='[Food_bank_lat_long#csv]' type='table'>
@@ -11137,7 +11138,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='state_lunches_served' name='textscan.00brn7y1kf8cr51en45uo15ey5v7'>
-            <connection class='textscan' directory='C:/Users/annru/Documents/capstone_annrumsey/data' filename='state_lunches_served.csv' password='' server='' />
+            <connection class='textscan' directory='C:/Users/annru/Documents/capstone_annrumsey/data' filename='state_lunches_served.csv' password='' server='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.00brn7y1kf8cr51en45uo15ey5v7' name='pop_estimate_county_2000_2019.csv' table='[pop_estimate_county_2000_2019#csv]' type='table'>
@@ -18101,8 +18102,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='23' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='22' param='vert' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='27' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='26' param='vert' w='98400' x='800' y='1000'>
                 <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='5250' id='17' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -18344,7 +18345,7 @@
   <windows source-height='72'>
     <window class='dashboard' maximized='true' name='Hunger in the US'>
       <viewpoints />
-      <active id='7' />
+      <active id='-1' />
       <simple-id uuid='{91B4576D-5E21-486A-B9A4-010CF628963C}' />
     </window>
     <window class='dashboard' name='Food Bank dashboard'>
