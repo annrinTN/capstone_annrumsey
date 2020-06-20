@@ -31,4 +31,4 @@ GE crops  https://www.ers.usda.gov/webdocs/DataFiles/47649/alltablesGEcrops.csv?
 
 US Census data: https://data.census.gov/cedsci/  
 Census response rate by day https://2020census.gov/en/response-rates.html  
-Used for US Population Forecast population through 2050 – web scraping technique used:https://www.worldometers.info/world-population/us-population/  
+Used for US Population Forecast population through 2050 – web scraping technique used: https://www.worldometers.info/world-population/us-population/  
