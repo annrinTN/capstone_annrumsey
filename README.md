@@ -20,6 +20,7 @@ Costs
 
 
 *Sources and further research*
+
 Food access https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/ 
 SNAP https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
 Food security & safety  https://www.fns.usda.gov/research-analysis
