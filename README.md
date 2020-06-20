@@ -30,7 +30,7 @@ Types of foods / trends costs
 
 
 
-<h2>Sources and further research</h2>
+<h2>Source links and further research</h2>
 
 Food access https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/   
 SNAP https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap  
