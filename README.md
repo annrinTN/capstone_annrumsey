@@ -18,12 +18,12 @@ Additional questions
 Is our current US SNAP program impacted by threats to the food supply / food safety?
 What age groups, demographics, or regions, urban or rural, etc.
 
-What changes in SNAP over the years?
-Keeping up with the US population growth?
-Availability gaps if any
-Who gets SNAP benefits / who does not?
-Types of foods / trends? 
-Costs
+What changes in SNAP over the years?  
+Keeping up with the US population growth? 
+Availability gaps if any  
+Who gets SNAP benefits / who does not?  
+Types of foods / trends?   
+Costs  
 
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
