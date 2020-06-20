@@ -15,7 +15,7 @@ US Census tract data and 2010 population
 <h2>The main question -- Who is food insecure?</h2>
 
 Additional questions  
-Is our current US SNAP program impacted by threats to the food supply / food safety?
+Is our current US SNAP program impacted by threats to the food supply / food safety?  
 What age groups, demographics, or regions, urban or rural, etc.
 
 What changes in SNAP over the years?  
