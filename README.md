@@ -16,3 +16,18 @@ Availability gaps if any
 Who gets SNAP benefits / who does not?
 Types of foods / trends? 
 Costs
+
+
+
+*Sources and further research*
+Food access https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/ 
+SNAP https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
+Food security & safety  https://www.fns.usda.gov/research-analysis
+Food expenditures https://www.ers.usda.gov/data-products/food-expenditure-series/
+School Lunch https://www.fns.usda.gov/pd/child-nutrition-tables
+WIC - Women Infants Children https://www.fns.usda.gov/wic/frequently-asked-questions-about-wic
+GE crops  https://www.ers.usda.gov/webdocs/DataFiles/47649/alltablesGEcrops.csv?v=6372.6
+
+US Census data: https://data.census.gov/cedsci/
+Census response rate by day https://2020census.gov/en/response-rates.html
+Used for US Population Forecast population through 2050 – web scraping technique used:https://www.worldometers.info/world-population/us-population/
