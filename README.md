@@ -22,8 +22,7 @@ What changes in SNAP over the years?
 Keeping up with the US population growth? 
 Availability gaps if any  
 Who gets SNAP benefits / who does not?  
-Types of foods / trends?   
-Costs  
+Types of foods / trends costs  
 
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
