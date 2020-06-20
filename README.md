@@ -16,6 +16,8 @@ Availability gaps if any
 Who gets SNAP benefits / who does not?
 Types of foods / trends? 
 Costs
+<h2>Tools used: <h2>
+  Python, Tableau, Excel, and Power BI (correlation plot R package)   
 
 
 
