@@ -1,14 +1,22 @@
 # Hunger in America
-Nashville Software School Data Analytics cohort DA2E capstone project
+<h2>Nashville Software School Data Analytics cohort DA2E capstone project</h2>
 
 
 I am interested in exploring food security and the impact of hunger by identifying populations impacted by threats to the food supply. 
-The established US government sources from the USDA for SNAP and WIC data are a key component of this analysis. 
-SNAP = Supplemental Nutrition Assistance Program 
+Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis. 
+SNAP = Supplemental Nutrition Assistance Program  
+WIC = Women, Infants and Children  
 
-Who is food insecure?
+Source data sets are from the USDA (United States Department of Agriculture)
+SNAP -  Supplemental Nutrition Assistance Program
+USDA Food & Nutrition Service Child Nutrition and Food expenditures
+US Census tract data and 2010 population 
+
+The main question -- Who is food insecure?
+
+Additional questions  
 Is our current US SNAP program impacted by threats to the food supply / food safety?
-What age groups, demographics, or regions, urban or rural, etc.?
+What age groups, demographics, or regions, urban or rural, etc.
 
 What changes in SNAP over the years?
 Keeping up with the US population growth?
@@ -16,6 +24,7 @@ Availability gaps if any
 Who gets SNAP benefits / who does not?
 Types of foods / trends? 
 Costs
+
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
 
