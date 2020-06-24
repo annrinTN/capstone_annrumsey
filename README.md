@@ -31,7 +31,7 @@ Types of foods / trends costs
 
 
 <h2>My Capstone presentation is a PowerPoint sampling my work in Power BI and Tableau  </h2>
-Capstone PowerPoint: https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx
+<b>Capstone PowerPoint: https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx</b>
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
 
