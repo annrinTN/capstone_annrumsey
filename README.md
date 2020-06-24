@@ -5,6 +5,9 @@
 I am interested in exploring food security and the impact of hunger by identifying populations impacted by threats to the food supply. 
 Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis.   
 
+<h2>My presentation is a PowerPoint with my work from Power BI and Tableau  </h2>
+Link to PowerPoint: https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx  
+
 <h2>Source data sets are from the USDA (United States Department of Agriculture)  </h2>
 SNAP -  Supplemental Nutrition Assistance Program  
 USDA Food & Nutrition Service Child Nutrition and Food expenditures  
@@ -27,6 +30,11 @@ Types of foods / trends costs
 
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
+
+Link to Power BI: https://app.powerbi.com/groups/me/reports/9978c660-cf43-4666-9e75-0c809982e788/ReportSection56f7ccc68615b560dd05  
+Link to Tableau: https://public.tableau.com/profile/annrumsey#!/vizhome/Capstone-Tableauportion/HungerintheUS?publish=yes    
+Link to Power Point supporting slides: https://github.com/annrinTN/capstone_annrumsey/blob/master/Capstone3_PowerBI_pp.pptx  
+Link to Power Point supporting slides: https://github.com/annrinTN/capstone_annrumsey/blob/master/Capstone2_Tableau_pp.pptx  
 
 
 
