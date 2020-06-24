@@ -1,7 +1,7 @@
 # Hunger in America
-<h1> Ann Rumsey - My Capstone project</h1>
+<h1> Ann Rumsey - Capstone project</h1>
 https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx  
-<h2>Nashville Software School Data Analytics cohort DA2E  </h2>
+<h3>Nashville Software School Data Analytics cohort DA2E  </h3>
 
 I am interested in exploring food security and the impact of hunger by identifying populations impacted by threats to the food supply. 
 Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis.   
