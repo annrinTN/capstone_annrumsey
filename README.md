@@ -1,12 +1,9 @@
-cc# Hunger in America
+# Hunger in America
 <h1> Ann Rumsey - My Capstone project</h1>
-Nashville Software School Data Analytics cohort DA2E  
+<h2>Nashville Software School Data Analytics cohort DA2E  </h2>
 
 I am interested in exploring food security and the impact of hunger by identifying populations impacted by threats to the food supply. 
 Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis.   
-
-<h2>My Capstone presentation is a PowerPoint sampling my work in Power BI and Tableau  </h2>
-Capstone PowerPoint: https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx
 
 <h2>Source data sets are from the USDA (United States Department of Agriculture)  </h2>
 SNAP -  Supplemental Nutrition Assistance Program  
@@ -28,6 +25,9 @@ Availability gaps if any
 Who gets SNAP benefits / who does not?  
 Types of foods / trends costs  
 
+
+<h2>My Capstone presentation is a PowerPoint sampling my work in Power BI and Tableau  </h2>
+Capstone PowerPoint: https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
 
