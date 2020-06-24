@@ -1,6 +1,6 @@
 cc# Hunger in America
-<h1>Nashville Software School Data Analytics cohort DA2E capstone project</h1>
-
+<h1> Ann Rumsey - My Capstone project</h1>
+Nashville Software School Data Analytics cohort DA2E  
 
 I am interested in exploring food security and the impact of hunger by identifying populations impacted by threats to the food supply. 
 Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis.   
