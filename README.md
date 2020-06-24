@@ -7,17 +7,17 @@ I am interested in exploring food security and the impact of hunger by identifyi
 Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis.   
 
 <h2>Source data sets are from the USDA (United States Department of Agriculture)  </h2>
-SNAP -  Supplemental Nutrition Assistance Program  
-USDA Food & Nutrition Service Child Nutrition and Food expenditures  
-US Census tract data and 2010 population   
- Terminology:  
-SNAP = Supplemental Nutrition Assistance Program  
-WIC = Women, Infants and Children (Food nutrition programs)  
+SNAP -  Supplemental Nutrition Assistance Program   
+USDA Food & Nutrition Service Child Nutrition and Food expenditures    
+US Census tract data and 2010 population     
+ Terminology:    
+SNAP = Supplemental Nutrition Assistance Program    
+WIC = Women, Infants and Children (Food nutrition programs)    
 
-<h2>The main question - Who is food insecure?</h2>
+<h2>The main question - Who is food insecure?</h2>  
 
-Additional questions  
-Is our current US SNAP program impacted by threats to the food supply / food safety?  
+Additional questions    
+Is our current US SNAP program impacted by threats to the food supply / food safety?    
 What age groups, demographics, or regions, urban or rural, etc.
 
 What changes in SNAP over the years?  
