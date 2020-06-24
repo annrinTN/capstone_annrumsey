@@ -6,7 +6,7 @@ I am interested in exploring food security and the impact of hunger by identifyi
 Established US government sources from the USDA for SNAP and WIC data are a key component of this analysis.   
 
 <h2>My presentation is a PowerPoint with my work from Power BI and Tableau  </h2>
-Link to [PowerPoint](https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx) 
+Link to [PowerPoint](https://github.com/annrinTN/capstone_annrumsey/blob/master/NSS%20Capstone%20Ann%20Rumsey.pptx). 
 
 <h2>Source data sets are from the USDA (United States Department of Agriculture)  </h2>
 SNAP -  Supplemental Nutrition Assistance Program  
