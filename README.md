@@ -35,7 +35,7 @@ Types of foods / trends costs
 <h2>Tools used: </h2>
   Python, Tableau, Excel, and Power BI (correlation plot R package)   
 
-Link to Power BI: https://app.powerbi.com/groups/me/reports/9978c660-cf43-4666-9e75-0c809982e788/ReportSection56f7ccc68615b560dd05  
+Link to Power BI: https://drive.google.com/file/d/1g-SOLOtSMpy25zjoiGQNPuIrXmErdBym/view?usp=sharing    
 Link to Tableau: https://public.tableau.com/profile/annrumsey#!/vizhome/Capstone-Tableauportion/HungerintheUS?publish=yes    
 Link to Power Point PowerBI supporting slides: https://github.com/annrinTN/capstone_annrumsey/blob/master/Capstone3_PowerBI_pp.pptx  
 Link to Power Point Tableau supporting slides: https://github.com/annrinTN/capstone_annrumsey/blob/master/Capstone2_Tableau_pp.pptx  
